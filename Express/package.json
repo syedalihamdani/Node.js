@@ -1,0 +1,14 @@
+{
+  "name": "ali",
+  "version": "1.0.0",
+  "description": "\"A new repository for work\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Hamdani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,11 @@
+Guide how to install & use express.
+First make a folder name Express.
+Initialize node package manager in this folder by this command.
+                   npm init
+During the Initialization change the main: to app.js or any file you want to make.
+After this make app.js file.
+Now install express by this command.
+                npm install express
+To check that express is working or not
+node app.js
+
